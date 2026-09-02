@@ -111,7 +111,7 @@ plt.axis('off')
 - A text image containing characters is displayed.
 - The image serves as the input for morphological processing.
 
-<img width="327" height="332" alt="image" src="https://github.com/user-attachments/assets/9946cf61-3356-45e8-b3e9-59e0557749f2" />
+<img width="468" height="501" alt="image" src="https://github.com/user-attachments/assets/0cfd1750-f175-4020-b665-a07620aba6bb" />
 
 
 
@@ -122,7 +122,7 @@ plt.axis('off')
 - The thickness of the characters is reduced.
 - Object boundaries shrink inward.
 
-<img width="312" height="352" alt="image" src="https://github.com/user-attachments/assets/62708e0f-313b-4bdc-a371-ec8aded7ca74" />
+<img width="493" height="513" alt="image" src="https://github.com/user-attachments/assets/7310d9b3-9992-425d-8ade-4023de066fcd" />
 
 
 
@@ -133,7 +133,7 @@ plt.axis('off')
 - The thickness of the characters increases.
 - Object boundaries expand outward.
 
-<img width="317" height="342" alt="image" src="https://github.com/user-attachments/assets/07c1f844-1b7c-49e2-a7b4-5c6eb6448a3d" />
+<img width="472" height="511" alt="image" src="https://github.com/user-attachments/assets/849458fc-6d58-49e4-9aec-c31285a23842" />
 
 
 
